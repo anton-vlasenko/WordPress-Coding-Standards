@@ -28,7 +28,7 @@ use WordPressCS\WordPress\Sniff;
  *
  * Last synced with base class June 2018 at commit 78ddbae97cac078f09928bf89e3ab9e53ad2ace0.
  * @link    https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/NamingConventions/ValidVariableNameSniff.php
- * //Test
+ *
  * @uses PHP_CodeSniffer\Sniffs\AbstractVariableSniff::$phpReservedVars
  */
 class ValidVariableNameSniff extends PHPCS_AbstractVariableSniff {
