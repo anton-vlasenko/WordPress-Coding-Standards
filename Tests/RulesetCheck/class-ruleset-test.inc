@@ -17,6 +17,8 @@ echo 'Hello world';
 
 $a = function_call();
 
+// phpcs:disable WordPress.CodeAnalysis.GuardedFunctionAndClassNames
+
 /**
  * Class docblock.
  */
